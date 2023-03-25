@@ -1,6 +1,7 @@
 .DS_Store
 node_modules
 /build
+/static
 /.svelte-kit
 /package
 .env
@@ -11,4 +12,4 @@ node_modules
 pnpm-lock.yaml
 
 # Tauri
-src-tauri
+/src-tauri
